@@ -1,0 +1,21 @@
+@media (max-width: 768px) {
+  .cartao {
+    padding: 20px;
+    max-width: 380px;
+  }
+
+  .cartao .id-conselho {
+    font-size: 13px;
+    letter-spacing: 3px;
+  }
+
+  .cartao .mensagem {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 375px) {
+  .cartao {
+    max-width: 350px;
+  }
+}
