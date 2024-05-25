@@ -5,7 +5,7 @@ Inicialmente, o foco é criar um aplicativo gerador de conselhos com HTML e CSS,
 
 ## Preview
 
-![Preview do Projeto](../app-gerador-de-conselhos/preview.gif)
+![Preview do Projeto](./app-gerador-de-conselhos/preview.gif)
 
 ## Tecnologias Utilizadas
 
