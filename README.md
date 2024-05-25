@@ -33,7 +33,7 @@ Inicialmente, o foco é criar um aplicativo gerador de conselhos com HTML e CSS,
  ┃   ┣ 🖼️ pattern-divider-desktop.svg 
  ┃   ┗ 🖼️ icon-dice.svg
  ┣ 📜 index.html
- ┣ 🖼️ preview.jpg
+ ┣ 🖼️ preview.gif
  ┗ 📜 README.md
 ```
 
