@@ -2,6 +2,7 @@
   .cartao {
     padding: 20px;
     max-width: 380px;
+    margin: 0 15px;
   }
 
   .cartao .id-conselho {
